@@ -1,0 +1,105 @@
+html, body{
+  background-color: #000000;
+  color: white;
+  font-family: Helvetica,Arial,sans-serif;
+  font: size 1.3rem;
+  padding: 0px;
+  overflow-x: hidden;
+ /* overflow-y: scroll;*/
+  
+}
+#recuperar .botonRecuperar{
+  display: inline-block;
+  
+  /*padding: 15px 25px;
+  font-size: 24px;*/
+  cursor: pointer;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  background-color: rgba(25, 25, 25, 0);
+  border: none;
+  border-radius: 0px;
+}
+button{
+  /*padding: 15px;
+  font-size: 1.3rem;
+  margin-right: 5px;
+  border-radius: 30%;
+  background-color: #21232A;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+*/
+  display: inline-block;
+  
+  /*padding: 15px 25px;
+  font-size: 24px;*/
+  cursor: pointer;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #191919;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  
+}
+#prueba .botonRegistro {
+  position: relative;
+  background-color: #4b4105;
+  filter: blur(0.7px);
+}
+
+#estilo .botonNegocio
+{
+  
+  background-color: #555555;
+  filter: blur(0.7px);
+  
+}
+#texto
+{
+  font-size: 19px;
+  color: #ffffff;
+}
+
+#tabla{
+  color: #000000;
+}
+#yuya{
+  align-items: center;
+}
+#foto
+{
+  background-image: url("https://i.postimg.cc/q7v54bkm/Imagen1-5.png");
+  
+}
+#fotosi{
+  /**background-image: url("https://i.postimg.cc/4Nkg1g5p/nuevafoto1-5.png");*/
+  background-image: url("https://i.postimg.cc/Y9S9GJkT/a3.png");
+  background-size: 1920px ;
+}
+#desastre .des{
+  size: 10px;
+  color: black;
+}
+#botonestrans {
+  border: none;
+  border-radius: 0px;
+  border-color: #00000000;
+  border-style: none;
+  border-width: 0px;
+  border-bottom: #00000000;
+  border-top: #00000000;
+  
+  
+  opacity: 0.9;
+}
+#fotono
+{
+ /** background-image: url("https://i.postimg.cc/jqNV21b2/Imagen3.png");*/
+ background-image: url("https://i.postimg.cc/6p7fRm62/b1.png");
+  background-size: 1920px;
+}

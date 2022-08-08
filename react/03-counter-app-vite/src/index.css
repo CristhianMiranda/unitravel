@@ -1,0 +1,32 @@
+html, body{
+    background-color: #21232A;
+    color: white;
+    font-family: Helvetica,Arial,sans-serif;
+    font: size 1.3rem;
+    padding: 70px;
+}
+
+button{
+    /*padding: 15px;
+    font-size: 1.3rem;
+    margin-right: 5px;
+    border-radius: 30%;
+    background-color: #21232A;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+*/  
+    display: inline-block;
+    
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #191919;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
